@@ -127,21 +127,12 @@
 			path = TodayExtension;
 			sourceTree = "<group>";
 		};
-		0F8FD97B23F5831A006C13DE /* JSON's */ = {
-			isa = PBXGroup;
-			children = (
-				0FEB04492428DD6D00BD13E6 /* SignInJSON.json */,
-			);
-			path = "JSON's";
-			sourceTree = "<group>";
-		};
 		7D5B35F320E28EE80022BAE6 = {
 			isa = PBXGroup;
 			children = (
 				7D5B35FE20E28EE80022BAE6 /* XcodeProj */,
 				7D0342F220F4BA280050B6A6 /* XcodeProjUITests */,
 				7D03431120F4BB070050B6A6 /* TodayExtension */,
-				0F8FD97B23F5831A006C13DE /* JSON's */,
 				7D03430E20F4BB070050B6A6 /* Frameworks */,
 				7D5B35FD20E28EE80022BAE6 /* Products */,
 			);
